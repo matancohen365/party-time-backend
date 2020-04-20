@@ -1,6 +1,5 @@
-## party time backend
-
-see [party time](https://play.google.com/store/apps/details?id=gq.tusic.time2party)
+## Party Time Backend
+  // todo: readme
 
 ## License
 
